@@ -1,0 +1,65 @@
+  {
+    "menu": {
+      "sections": [
+        {
+          "title": "CUENTAS",
+          "items": [
+            {
+              "title": "AHORROS",
+              "subItems": [
+                "CUENTA DE AHORRO EN PESOS",
+                "CUENTA AHORRO MÁS",
+                "CUENTA DE AHORRO INFANTIL EN PESOS",
+                "CUENTA DE AHORRO INFANTIL EN DÓLARES",
+                "CUENTA DE AHORRO PRESERVA",
+                "CUENTA DE AHORRO EN DÓLARES",
+                "CUENTA DE AHORRO EN EUROS",
+                "CUENTA DE AHORRO PARA RESIDENTES EN EL EXTRANJERO",
+                "CUENTA DE AHORRO BÁSICA INCLUSIVA",
+                "CUENTA DE AHORRO REMESAS",
+                "descuento"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Inversiones",
+          "items": [
+            "Depósito a Plazo en Pesos",
+            "Depósito a Plazo en dólares y euros",
+            "Inversiones en Títulos-Valores",
+            "Fondos de Inversión"
+          ]
+        },
+        {
+          "title": "Tarjetas",
+          "items": [
+            "Mastercard Débito Dólares",
+            "Mastercard Débito Gold",
+            "Mastercard Débito Standard",
+            "Tarjeta de crédito Visa Ser",
+            "Credimás Banreservas"
+          ]
+        },
+        {
+          "title": "Prestamos",
+          "items": [
+            "Préstamos de Consumo",
+            "Vacaciones Felices",
+            "Educación y Cultura",
+            "Empleado Feliz",
+            "Sueldo Más",
+            "Pensionado Feliz"
+          ]
+        },
+        {
+          "title": "Seguros"
+        
+        },
+        {
+         "title": "Remesas, Impuesto y Servicios"
+        }
+        
+      ]
+    }
+  }
